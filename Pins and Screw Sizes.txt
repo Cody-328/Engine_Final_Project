@@ -1,0 +1,17 @@
+ESP32S3
+A0: 18
+A1: 17
+A2: 16
+
+Screw Sizes:            Print Size:
+M3:
+Head- 5.5 mm        6.5 mm
+Thread-2.9 mm      2.85 mm (Through 3.5mm)
+
+M2.5:
+Head- 4.5 mm        5.5 mm
+Thread- 2.4 mm     2.35 mm (Through 3.0mm)
+
+M2:
+Head- 3.5 mm        4.5 mm
+Thread- 1.9 mm     1.85 mm (Through 2.5mm)
